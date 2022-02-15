@@ -2,8 +2,13 @@
 content_type: resource
 description: "This resource contains the information about the ocean surface wave\
   \ generation and standard wave spectra.\r\n, "
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-019-design-of-ocean-systems-spring-2011/641e13d0b33fd958416245953423c5f3_MIT2_019S11_OWE.pdf
+file: /media/courses/2-019-design-of-ocean-systems-spring-2011/641e13d0b33fd958416245953423c5f3_MIT2_019S11_OWE.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT2_019S11_OWE.pdf
 uid: 641e13d0-b33f-d958-4162-45953423c5f3

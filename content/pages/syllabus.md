@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9ece6f8d-5fe3-bcc7-0f4e-fde38b8e5e01
 ---
@@ -138,7 +140,7 @@ KEY DATES
 {{< tdopen >}}
 Introduction
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="8" >}}
 Work on design 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -237,7 +239,7 @@ Design 1 due; HW 2 out
 {{< tdopen >}}
 Drift Loads/Motions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Work on design 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -312,7 +314,7 @@ Design 2 due; HW 3 out
 {{< tdopen >}}
 Mooring Dynamics (cont.)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Work on design 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -387,7 +389,7 @@ Design 3 due
 {{< tdopen >}}
 Ship Slamming
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Integrate final report and prepare for final presentation
 {{< tdclose >}}
 {{< tdopen >}}
@@ -441,7 +443,7 @@ Final presentation due
 {{< tdopen >}}
 Advanced Topics (cont.)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Work on final report
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Labs and Projects
+parent_type: CourseSection
 parent_uid: fb72b73a-bfba-c4d4-6140-60d96296b293
 title: 'Part III Design: Mooring System Design'
 uid: 5e53764d-3f62-6170-707c-d53c8a26ab64

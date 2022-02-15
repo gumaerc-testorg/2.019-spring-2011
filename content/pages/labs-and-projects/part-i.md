@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Labs and Projects
+parent_type: CourseSection
 parent_uid: fb72b73a-bfba-c4d4-6140-60d96296b293
 title: 'Part I Design: Ship Sizing and Hydrostatics'
 uid: 30acc1fc-5a6b-a1db-57f4-da4c0e56683c

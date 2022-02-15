@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 120db10e-6d8f-f1cb-f9de-1b156f4074cd
 ---
@@ -179,7 +182,7 @@ Drift Loads/Motions
 {{< tdopen >}}
 Slowly-Varying Loads/Motions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl2))
 {{< tdclose >}}
 
@@ -200,7 +203,7 @@ Slowly-Varying Loads/Motions (cont.)
 {{< tdopen >}}
 Ocean Environment
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/mit2_019s11_owe))
 {{< tdclose >}}
 
