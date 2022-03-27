@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part I Design: Ship Sizing and Hydrostatics'
 parent_type: CourseSection
+parent_uid: 30acc1fc-5a6b-a1db-57f4-da4c0e56683c
 resourcetype: Document
 title: MIT2_019S11_ParaTut2.pdf
 uid: cc72f890-87cf-80c7-e2da-f0355c216bf4

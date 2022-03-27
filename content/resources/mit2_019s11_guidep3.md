@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Part II Design: Hydrodynamic Loads and Seakeeping Analysis'
 parent_type: CourseSection
+parent_uid: 3193fb9c-ad91-359e-2ccc-ce828c451176
 resourcetype: Document
 title: MIT2_019S11_GuideP3.pdf
 uid: daa45cde-78ed-9548-15d5-bc28326b0ef7

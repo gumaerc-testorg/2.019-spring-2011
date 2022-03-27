@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 120db10e-6d8f-f1cb-f9de-1b156f4074cd
 resourcetype: Document
 title: MIT2_019S11_OWE.pdf
 uid: 641e13d0-b33f-d958-4162-45953423c5f3
