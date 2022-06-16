@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a overview of topics covered by the course and
+  lecture notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -99,7 +101,7 @@ N/A
 Ship Hydrostatics and Structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_019s11_hydstr1))
+({{% resource_link f0cc4e48-3a7d-4b78-760f-9b0908f51c44 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ N/A
 Seakeeping
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_sk1))
+({{% resource_link 0a8db467-9928-bbf6-2bc4-6addbc709432 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Seakeeping
 Seakeeping (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_sk2))
+({{% resource_link bce4ce56-26a3-0f68-6866-8ac7215c9d50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ Seakeeping (cont.)
 Seakeeping (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_sk3))
+({{% resource_link 1b400805-815f-a9d3-31f7-6e106b0bbc16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +161,7 @@ Seakeeping (cont.)
 Seakeeping (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_sk4))
+({{% resource_link 66660114-db60-8c59-7e7d-4340668c2603 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Seakeeping (cont.)
 Drift Loads/Motions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl1))
+({{% resource_link 5c412f14-3b25-35cb-dfa0-4e56e9daf501 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +185,7 @@ Drift Loads/Motions
 Slowly-Varying Loads/Motions
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl2))
+({{% resource_link 552035fd-6156-6ad1-df7a-932795a2eb00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +206,7 @@ Slowly-Varying Loads/Motions (cont.)
 Ocean Environment
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_owe))
+({{% resource_link 641e13d0-b33f-d958-4162-45953423c5f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Ocean Environment (cont.)
 Mooring Dynamics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_md1))
+({{% resource_link 46b0b71b-545a-7918-c43d-32e025b56e6c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Mooring Dynamics
 Mooring Dynamics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_md2))
+({{% resource_link 0d0caa7a-8c2f-b697-e450-7b2be378a925 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Mooring Dynamics (cont.)
 Mooring Design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_019s11_md3))
+({{% resource_link 94a8496d-2d68-0547-4957-bdc9b91c4b21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
