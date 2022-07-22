@@ -6,6 +6,7 @@ file: /courses/2-019-design-of-ocean-systems-spring-2011/641e13d0b33fd9584162459
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ uid: 641e13d0-b33f-d958-4162-45953423c5f3
 ---
 This resource contains the information about the ocean surface wave generation and standard wave spectra.
 , 
-

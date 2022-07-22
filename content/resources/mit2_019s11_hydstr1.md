@@ -6,6 +6,7 @@ file: /courses/2-019-design-of-ocean-systems-spring-2011/f0cc4e483a7d4b78760f9b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_019S11_HydStr1.pdf
 uid: f0cc4e48-3a7d-4b78-760f-9b0908f51c44
 ---
 This resource contains the information about the typical offshore structures, FPSO and turret mooring/riser system.
-
