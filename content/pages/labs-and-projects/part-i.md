@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the first part of the design project
+  for the course, including objectives, guidance, requirements, and resources.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Labs and Projects
+parent_type: CourseSection
 parent_uid: fb72b73a-bfba-c4d4-6140-60d96296b293
 title: 'Part I Design: Ship Sizing and Hydrostatics'
 uid: 30acc1fc-5a6b-a1db-57f4-da4c0e56683c
@@ -145,20 +150,20 @@ Wave period (sec)
 Resources for Part 1
 --------------------
 
-Intro to PARAMARINE ([PDF]({{< baseurl >}}/resources/mit2_019s11_paraintro))
+Intro to PARAMARINE ({{% resource_link 94224666-428c-007d-3d58-b399e6dc82c3 "PDF" %}})
 
-PARAMARINE Tutorial 1 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut1))
+PARAMARINE Tutorial 1 ({{% resource_link 2da6fa90-7a08-1053-254a-e5395b4b079d "PDF" %}})
 
-PARAMARINE Tutorial 2 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut2))
+PARAMARINE Tutorial 2 ({{% resource_link cc72f890-87cf-80c7-e2da-f0355c216bf4 "PDF" %}})
 
-PARAMARINE Tutorial 3 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut3))
+PARAMARINE Tutorial 3 ({{% resource_link bfb3a457-8297-5be2-001a-ae7a48f20f5b "PDF" %}})
 
-PARAMARINE Tutorial 4 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut4))
+PARAMARINE Tutorial 4 ({{% resource_link ecf9fab2-eee7-9234-4229-6e5d4fcc00fa "PDF" %}})
 
-PARAMARINE Tutorial 5 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut5))
+PARAMARINE Tutorial 5 ({{% resource_link 1c2d5838-c0fd-7247-d4a7-5b8b73b87564 "PDF" %}})
 
-PARAMARINE Tutorial 6 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut6))
+PARAMARINE Tutorial 6 ({{% resource_link 98e39d54-f906-40f5-55eb-2547feb2227d "PDF" %}})
 
-PARAMARINE Tutorial 7 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut7))
+PARAMARINE Tutorial 7 ({{% resource_link 618519b7-9bc9-e7ca-04a0-3d09882467ab "PDF" %}})
 
-PARAMARINE Tutorial 8 ([PDF]({{< baseurl >}}/resources/mit2_019s11_paratut8))
+PARAMARINE Tutorial 8 ({{% resource_link 37dcd8f6-514b-fd01-433f-7ea95a2e0fef "PDF" %}})

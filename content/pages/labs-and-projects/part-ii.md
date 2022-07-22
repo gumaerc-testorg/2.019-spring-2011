@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the second part of the design project
+  for the course, including objectives, software, and resources.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Labs and Projects
+parent_type: CourseSection
 parent_uid: fb72b73a-bfba-c4d4-6140-60d96296b293
 title: 'Part II Design: Hydrodynamic Loads and Seakeeping Analysis'
 uid: 3193fb9c-ad91-359e-2ccc-ce828c451176
@@ -28,4 +33,4 @@ Any frequency-domain seakeeping analysis tool.
 Resources
 ---------
 
-Guidance for Part 3: Mooring System Design ([PDF]({{< baseurl >}}/resources/mit2_019s11_guidep3))
+Guidance for Part 3: Mooring System Design ({{% resource_link daa45cde-78ed-9548-15d5-bc28326b0ef7 "PDF" %}})
