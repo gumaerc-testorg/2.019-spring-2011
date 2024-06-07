@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information about the design for production.
 file: /courses/2-019-design-of-ocean-systems-spring-2011/37dcd8f6514bfd01433f7ea95a2e0fef_MIT2_019S11_ParaTut8.pdf
+file_size: 31884
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
