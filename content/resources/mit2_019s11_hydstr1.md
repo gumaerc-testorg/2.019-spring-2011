@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information about the typical offshore structures,
   FPSO and turret mooring/riser system.
 file: /courses/2-019-design-of-ocean-systems-spring-2011/f0cc4e483a7d4b78760f9b0908f51c44_MIT2_019S11_HydStr1.pdf
+file_size: 1325500
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
