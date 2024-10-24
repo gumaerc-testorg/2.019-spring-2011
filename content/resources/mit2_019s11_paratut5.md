@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the longitudinal strength
   analysis and structural definition.
-file: /courses/2-019-design-of-ocean-systems-spring-2011/1c2d5838c0fd7247d4a75b8b73b87564_MIT2_019S11_ParaTut5.pdf
+file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/1c2d5838c0fd7247d4a75b8b73b87564_MIT2_019S11_ParaTut5.pdf
 file_size: 49226
 file_type: application/pdf
 learning_resource_types: []

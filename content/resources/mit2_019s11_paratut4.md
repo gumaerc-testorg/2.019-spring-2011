@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the stability, hydrostatic
   analysis and damaged stability analysis.
-file: /courses/2-019-design-of-ocean-systems-spring-2011/ecf9fab2eee7923442296e5d4fcc00fa_MIT2_019S11_ParaTut4.pdf
+file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/ecf9fab2eee7923442296e5d4fcc00fa_MIT2_019S11_ParaTut4.pdf
 file_size: 37289
 file_type: application/pdf
 learning_resource_types: []
