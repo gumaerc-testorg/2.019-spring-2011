@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about the basic seakeeping analysis.
-file: /courses/2-019-design-of-ocean-systems-spring-2011/98e39d54f90640f555eb2547feb2227d_MIT2_019S11_ParaTut6.pdf
+file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/98e39d54f90640f555eb2547feb2227d_MIT2_019S11_ParaTut6.pdf
 file_size: 28550
 file_type: application/pdf
 learning_resource_types: []
