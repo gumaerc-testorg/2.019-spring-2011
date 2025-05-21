@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about generate the hull, generate
   the ship lines and refine the hull shape.
-file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/2da6fa907a081053254ae5395b4b079d_MIT2_019S11_ParaTut1.pdf
+file: /courses/2-019-design-of-ocean-systems-spring-2011/2da6fa907a081053254ae5395b4b079d_MIT2_019S11_ParaTut1.pdf
 file_size: 36479
 file_type: application/pdf
 learning_resource_types: []
