@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about generate the internal subdivision
   and generate the moon pool.
-file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/cc72f89087cf80c7e2daf0355c216bf4_MIT2_019S11_ParaTut2.pdf
+file: /courses/2-019-design-of-ocean-systems-spring-2011/cc72f89087cf80c7e2daf0355c216bf4_MIT2_019S11_ParaTut2.pdf
 file_size: 31962
 file_type: application/pdf
 learning_resource_types: []

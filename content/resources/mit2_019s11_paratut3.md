@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about generate the tanks, transform
   all the geometry into building blocks and generate the accommodation.
-file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/bfb3a45782975be2001aae7a48f20f5b_MIT2_019S11_ParaTut3.pdf
+file: /courses/2-019-design-of-ocean-systems-spring-2011/bfb3a45782975be2001aae7a48f20f5b_MIT2_019S11_ParaTut3.pdf
 file_size: 33644
 file_type: application/pdf
 learning_resource_types: []
