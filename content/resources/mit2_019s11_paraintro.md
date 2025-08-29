@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information about the introduction to paramarine
   and its design stages.
-file: /courses/2-019-design-of-ocean-systems-spring-2011/94224666428c007d3d58b399e6dc82c3_MIT2_019S11_ParaIntro.pdf
+file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/94224666428c007d3d58b399e6dc82c3_MIT2_019S11_ParaIntro.pdf
 file_size: 79096
 file_type: application/pdf
 learning_resource_types: []
