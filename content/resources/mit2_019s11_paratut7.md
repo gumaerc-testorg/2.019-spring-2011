@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information about the produce 2D drawings.
-file: /courses/2-019-design-of-ocean-systems-spring-2011/618519b79bc9e7ca04a03d09882467ab_MIT2_019S11_ParaTut7.pdf
+file: /ol-ocw-studio-app/courses/2-019-design-of-ocean-systems-spring-2011/618519b79bc9e7ca04a03d09882467ab_MIT2_019S11_ParaTut7.pdf
 file_size: 24698
 file_type: application/pdf
 learning_resource_types: []
