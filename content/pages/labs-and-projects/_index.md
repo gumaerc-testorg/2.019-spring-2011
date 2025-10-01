@@ -78,14 +78,14 @@ Survival condition (100-year return period):
 
 ## Design Project References
 
-"Guide for Building and Classing Floating Production Installations." American Bureau of Shipping, 2010. ([PDF - 3.1MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/82_FloatingProductionInstallations/Pub82_FPI_Guide))
+"Guide for Building and Classing Floating Production Installations." American Bureau of Shipping, 2010. ({{% resource_link "86a00941-92b0-47e6-adad-e0459d9f9215" "PDF - 3.1MB" %}})
 
-"Guide for 'Dynamic Loading Approach' for Floating Production, Storage and Offloading (FPSO) Installations." American Bureau of Shipping, 2010. ([PDF](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/101_SafeHullDLAforFPSOSystems/Pub101_FPSO_DLA))
+"Guide for 'Dynamic Loading Approach' for Floating Production, Storage and Offloading (FPSO) Installations." American Bureau of Shipping, 2010. ({{% resource_link "a062cd49-ed85-4c57-b0ee-06c5f0177e6b" "PDF" %}})
 
-Sections 5.1 to 5.4 of "Common Structural Rules for Double Hull Oil Tankers." American Bureau of Shipping, 2010. ([PDF - 7.4MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/2_SVR_2011/part5acsrtanker2010))
+Sections 5.1 to 5.4 of "Common Structural Rules for Double Hull Oil Tankers." American Bureau of Shipping, 2010. ({{% resource_link "69e644f5-9753-4721-a764-6e9da7082df6" "PDF - 7.4MB" %}})
 
-International Maritime Organization. Regulation 22 from *MARPOL Consolidated Edition*. International Maritime Organization, 2006. ISBN: 9789280142167. ([PDF - 13.0MB](https://www.amazon.com/Marpol-Consolidated-International-Maritime-Organization/dp/928014216X))
+International Maritime Organization. Regulation 22 from *MARPOL Consolidated Edition*. International Maritime Organization, 2006. ISBN: 9789280142167. ({{% resource_link "980c376a-aeca-4219-b0e5-1c7a495bc5a6" "PDF - 13.0MB" %}})
 
-Offshore-Technology.com. "[Elf exploration field – Girassol, Luanda, Angola](http://www.offshore-technology.com/projects/girassol/)." Accessed July 12, 2011.
+Offshore-Technology.com. "{{% resource_link "962df488-a30e-4870-8c22-2dafe710e6b0" "Elf exploration field – Girassol, Luanda, Angola" %}}." Accessed July 12, 2011.
 
 Doumont, Jean-Luc. Part Four, "Effective Graphical Displays." *Trees, Maps, and Theorems*. Principiae, 2009. ISBN: 9789081367707.
